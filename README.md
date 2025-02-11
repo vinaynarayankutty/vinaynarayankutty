@@ -16,9 +16,9 @@ Let's collaborate and bring your ideas to life.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
 
-**Version Control:** `Git` `GitLab` `BitBucket`
+**Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 
-**Others:** `Jira`
+**Others:** ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff) ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
 
 ## ✨ Other things
 
