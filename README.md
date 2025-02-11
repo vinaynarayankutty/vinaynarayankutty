@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Vinay!
+## 👨🏻‍💻 Hi, I'm Vinay!
 
 I'm a React native developer based in Kerala, India. 
 
@@ -10,12 +10,13 @@ Let's collaborate and bring your ideas to life.
 
 **Frontend Development:**
  
-![react](https://img.shields.io/badge/reactnative-1DA1F2?style=for-the-badge&logo=react&logoColor=white)
-![typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white) 
-![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)]
+[![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)]
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)] 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)]
 
 
-**Version Control:** `Git` `GitHub` `GitLab` `BitBucket`
+**Version Control:** `Git` `GitLab` `BitBucket`
 
 **Others:** `Jira`
 
@@ -25,5 +26,5 @@ Let's collaborate and bring your ideas to life.
 - F1 fan
 
 ## 📫 Reach out to me on
-[![instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinaynarayankutty)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaynarayankutty/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinaynarayankutty)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vinaynarayankutty/)
